@@ -28,7 +28,7 @@ metadata:
     app: loksai-eta-app
 spec:
   selector:
-    app: loksai-eta-deploy-lbl
+    app: loksai-eta-app
 
   type: NodePort
   ports:
